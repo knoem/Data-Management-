@@ -1,0 +1,30 @@
+{
+   "TargetDataset": {
+      "DatasetPath": null,
+      "Metadata": {
+         "Name": "",
+         "DatasetId": "",
+         "Host": "knoema.com",
+         "Description": "",
+         "Source": "",
+         "ReferenceUrl": "",
+         "PublicationDate": "",
+         "AccessedOn": ""
+      }
+   },
+   "DataSource": {
+      "Id": "MultiXLS",
+      "File": "",
+      "SelectSheets": false,
+      "Sheets": []
+   },
+   "Bindings": {
+      "Mappings": [],
+      "Fixed": []
+   },
+   "Overwrite": false,
+   "DateFormat": "",
+   "CultureId": "",
+   "EmptyValueText": "",
+   "ReviewData": false
+}
