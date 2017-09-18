@@ -1,0 +1,9 @@
+{
+ "Routines": [
+  {
+   "Type": "Data transfer",
+   "Path": "New file"
+  }
+ ],
+ "StopIfError": true
+}
